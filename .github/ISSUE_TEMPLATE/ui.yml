@@ -1,0 +1,29 @@
+name: 🎨 UI / Layout Issue
+description: Report layout, spacing, or visual issues
+title: " 🎨 [UI]: "
+labels: ["ui", "layout"]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Issue Description
+      placeholder: "Auth page shows vertical scrollbar..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Recordings
+      description: Drag & drop images here
+
+  - type: dropdown
+    id: screen
+    attributes:
+      label: Screen Size
+      options:
+        - 1366x768
+        - 1440x900
+        - 1920x1080
+        - Mobile
