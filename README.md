@@ -1,56 +1,22 @@
-# LifeBoard (Life OS)
+LifeBoard
 
-LifeBoard is a personal **Life Operating System** designed to help individuals organize goals, habits, knowledge, and daily execution in one place.  
-Think of it as a **second brain + execution dashboard** built for clarity, consistency, and long-term growth.
+LifeBoard is a personal Life Operating System designed to help individuals organize their goals, workflows, and long-term growth in a single place.
 
----
+We're currently building LifeBoard in private mode.
 
-## 🚀 Vision
+🚀 Vision
 
-Modern life is fragmented across notes, apps, calendars, and todo lists.  
-LifeBoard aims to unify **thinking, planning, and action** into a single system.
+Modern productivity tools are fragmented.
+LifeBoard aims to bring clarity, structure, and execution into one unified experience.
 
-**Core philosophy:**
-- One life → One system
-- Clarity over clutter
-- Progress over perfection
+More details coming soon.
 
----
+🛠 Status
 
-## ✨ Features
+🚧 Currently under active development
+🔒 Core features are private until launch
+📅 Early version coming soon
 
-- 🧠 **Life Dashboard** – High-level view of goals, priorities, and progress  
-- 🎯 **Goal Management** – Break long-term goals into actionable tasks  
-- 🔁 **Habit Tracking** – Build consistency with visual feedback  
-- 🗂 **Knowledge Management** – Notes, ideas, and learning in one place  
-- 🌗 **Dark / Light Mode** – Clean and distraction-free UI  
-- ⚡ **Fast & Minimal** – Optimized for focus, not overwhelm  
+#📬 Updates
 
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-- Angular (v19+)
-- Material Web Components (MWC)
-- TypeScript
-
-**Backend (Planned / Optional)**
-- Node.js / NestJS
-- PostgreSQL
-- REST / GraphQL APIs
-
-**Other**
-- Modular architecture
-- Scalable design
-- Clean UI/UX principles
-
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/<your-username>/lifeboard.git
-cd lifeboard
-npm install
-npm start
+Follow this repository for updates and announcements.
